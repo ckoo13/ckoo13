@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=ckoo13&style=flat-square&color=blue" alt=""/>
   
   <h1>
-    Hi there!
+    Welcome!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
