@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me:
 
-- 🌱 I’m currently learning Data Structures and Algorithms in Python!
+- 🌱 I’m currently learning Data Structures and Algorithms in Python as well as creating a new website using NextJS and ChakraUI!
 - 📫 How to reach me: kkoo22@cmc.edu
 - 😄 Pronouns: he/him/his
 - ⚾️ Fun fact: I played for the Claremont-Mudd-Scripps Varsity Baseball Team!
