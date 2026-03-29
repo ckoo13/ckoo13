@@ -5,11 +5,8 @@
     <a href="https://www.linkedin.com/in/calvin-koo-9aa869158/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:kkoo22@students.claremontmckenna.edu">
+    <a href="mailto:kyungmkoo13@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://angel.co/u/kyung-koo">
-      <img src="https://img.shields.io/badge/Angellist-white?style=for-the-badge&logo=angellist&logoColor=gray" alt="Angellist Badge"/>
     </a>
   </div>
   
@@ -25,10 +22,9 @@
 
 ### :man_technologist: About Me:
 
-- 🌱 I’m currently learning Data Structures and Algorithms in Python as well as creating a new website using NextJS and ChakraUI!
-- 📫 How to reach me: kkoo22@cmc.edu
-- 😄 Pronouns: he/him/his
-- ⚾️ Fun fact: I played for the Claremont-Mudd-Scripps Varsity Baseball Team!
+- 🌱 I’m currently an Investor at Sunstone Partners.
+- 📫 How to reach me: kyungmkoo13@gmail.com
+- ⚾️ Fun fact: I played for the Claremont-Mudd-Scripps Varsity Baseball Team.
 
 ---
 
